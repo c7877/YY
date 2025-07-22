@@ -606,8 +606,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: ff4cea200873fe799cff0ce2a93ad2ddc741420f
+      ref: "33643d93803c09455445389ad57b1da880cd04aa"
+      resolved-ref: "33643d93803c09455445389ad57b1da880cd04aa"
       url: "https://github.com/waifu-project/hide_cursor"
     source: git
     version: "0.0.3"

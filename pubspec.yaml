@@ -69,6 +69,8 @@ dependencies:
   hide_cursor:
     git:
       url: https://github.com/waifu-project/hide_cursor
+      branch: main
+      ref: 33643d93803c09455445389ad57b1da880cd04aa
   desktop_webview_window:
     git:
       url: https://github.com/waifu-project/flutter-plugins
